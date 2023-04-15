@@ -2,6 +2,8 @@
 
 Project developed for the [Deep Learning](https://corsidilaurea.uniroma1.it/en/view-course-details/2021/30430/20210916103754/d0d41e8f-68d0-47e4-8ec2-1179259a2a30/dd154448-c5aa-4ef0-a78c-b2cc47ae5898/268eb50b-2dc5-4e5b-81b6-1eb69c3d142b/e1606431-a5e0-4435-aa06-4ff4b4e33b28?guid_cv=dd154448-c5aa-4ef0-a78c-b2cc47ae5898&current_erogata=d0d41e8f-68d0-47e4-8ec2-1179259a2a30) course (Winter 2021). The goal was to deal with the three tasks described in [SemEval 2021 task 6](https://arxiv.org/pdf/2105.09284.pdf) ([here the site](https://propaganda.math.unipd.it/semeval2021task6/)).
 
+If the notebook is not rendered here on GitHub, open it in [Colab](https://drive.google.com/file/d/1L3uekv_FCCyKVtHRUY6NTJ5LZuRM5gc2/view?usp=sharing).
+
 The Detection of Persuasion Techniques in Memes workshop, or SemEval 2021 Task 6, was a challenge aimed at developing NLP models to detect persuasion techniques used in memes. The goal of the workshop was to explore the challenges of detecting these techniques in multimodal content, such as images and text, and to improve the understanding of how persuasive communication is carried out in the digital age. Propaganda uses psychological and rhetorical techniques to reach its purpose. Such techniques include the use of logical fallacies and appealing to the emotions of the audience. Participants were provided with a dataset of annotated memes and were tasked with building NLP models that could detect various persuasion techniques, including rhetorical questions, appeals to authority, and appeals to emotion, among others.
 
 The workshop is divided into three subtasks:
